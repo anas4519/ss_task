@@ -52,7 +52,7 @@ A comprehensive Flutter application for railway station cleanliness inspection a
 
 ### 1. Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/anas4519/ss_task.git
 cd ss_task
 ```
 
